@@ -14,15 +14,16 @@ This is a list of resources at the University of Washington, Seattle
 - [Dorms: Reddit](https://www.reddit.com/r/udub/wiki/dorms/)
 - [Droms: Real talk college](https://docs.google.com/document/u/0/d/19I1UCnSeHJYqMeSOlGorSpW7BoUdKubE-tUUDe6KMVg/mobilebasic) - Reviews about dorms, what to bring, ...
 - [Undergraduate housing](https://hfs.uw.edu/live-on-campus/Undergraduate-Housing/McMahon-Hall) - Housing and Food Services (HFS) - undergraduate communities, activities, dining plans, housing account, housing guides, HFS calendar
-- [The Rotunda] - HFS - Restaurants, Dining halls and menus
+- [The Rotunda](https://hfs.uw.edu/Eat/dining-hours/The-Rotunda) - HFS - Restaurants, Dining halls and menus
 
 
 
 ## Academics
+- [Academic Calendar - MyUW](https://my.uw.edu/academic_calendar/) 
 - [Grade required for graduation in Computer Science](https://www.cs.washington.edu/academics/ugrad/current-students/policies/progress#:~:text=Grade%20Criteria%3A,Allen%20School%20standing%20as%20well)
 - [Equivalency Guide](https://admit.washington.edu/apply/transfer/equivalency-guide/)  - Get credits for courses taken at a WA community or technical college
 - Credits for [AP courses](https://admit.washington.edu/apply/transfer/exams-for-credit/ap/) and [IB courses](https://admit.washington.edu/apply/transfer/exams-for-credit/ib/)
-- [Academic Calendar - MyUW](https://my.uw.edu/academic_calendar/) 
+
 
 - [Quarter Simulator (uwgrades.com)](https://uwgrades.com/compare.html)
 - [PC or MAC](https://www.reddit.com/r/udub/comments/11qyttj/cs_students_what_kind_of_computers_work/)
