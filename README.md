@@ -9,7 +9,7 @@ This is a list of resources at the University of Washington, Seattle
 - [Security, emergency notifications](https://emergency.uw.edu/)
 ### Discussions about UDub
 - [Discord](https://discord.com/channels/546259676531130368/580183076638949376)
-- [Reddit](https://www.reddit.com/r/udub/wiki/index/))
+- [Reddit](https://www.reddit.com/r/udub/wiki/index/)
 ### Dorms
 - [Dorms: Reddit](https://www.reddit.com/r/udub/wiki/dorms/)
 - [Droms: Real talk college](https://docs.google.com/document/u/0/d/19I1UCnSeHJYqMeSOlGorSpW7BoUdKubE-tUUDe6KMVg/mobilebasic) - Reviews about dorms, what to bring, ...
