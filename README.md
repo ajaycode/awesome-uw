@@ -11,8 +11,11 @@ This is a list of resources at the University of Washington, Seattle
 ## Paul G. Allen School
 - [Paul G Allen School of Computer Science & Engineering](https://www.cs.washington.edu/)
 - [Outreach](https://uwcseappointments.as.me/outreach) - Book an appointment with a student ambassador
-- [Undergrad Advisor](https://www.cs.washington.edu/academics/ugrad/advising#qqs) - Check-in for Quick questions for discussions under 10 minutes or book regular appointments for deeper conversations
+- [Undergrad Advisors](https://www.cs.washington.edu/academics/ugrad/advising) - Check-in for Quick questions for discussions under 10 minutes or book regular appointments for deeper conversations
 - Contacts: [Student Ambassadors](mailto:outreach@cs.washington.edu),  [Email Undergrad Advisor](mailto:ugrad-adviser@cs.washington.edu), Instagram: @uwcse.ugrad,  TikTok: @uw_cse_ugrad
+### Tutoring
+- [CLUE Tutoring](https://academicssupport.uw.edu/clue)
+- [Instructional Center (Tutoring)](https://depts.washington.edu/ic/content/applications.php?style=graphics)
 
 ## Courses
 - [CSE 12X Guided Self-Placement](https://placement.cs.washington.edu/) - Determine which of the introductory CS course (CSE 121, 122 and 123) suit you.
