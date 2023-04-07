@@ -1,5 +1,6 @@
 # awesome-uw
-This is a list of resources at the University of Washington, Seattle
+This is a list of resources at the $\color{#8f00ff}{University}$  $\color{#8f00ff}{of}$ $\color{#8f00ff}{Washington}$, Seattle
+
 
 ## Incoming freshmen
 - [Admitted Student Day](https://www.washington.edu/newhuskies/admitted-student-day/) - Campus resource guide, Parent & family guide
