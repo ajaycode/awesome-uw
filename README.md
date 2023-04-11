@@ -31,7 +31,7 @@ This is a list of resources at the University of Washington, Seattle
   - [The Rotunda](https://hfs.uw.edu/Eat/dining-hours/The-Rotunda) - HFS - Restaurants, Dining halls and menus
   - __Reviews__
     - [Dorms: Reddit](https://www.reddit.com/r/udub/wiki/dorms/)
-    - [Droms: Real talk college](https://docs.google.com/document/u/0/d/19I1UCnSeHJYqMeSOlGorSpW7BoUdKubE-tUUDe6KMVg/mobilebasic) - Reviews about dorms, what to bring, ...
+    - [Dorms: Real talk college](https://docs.google.com/document/u/0/d/19I1UCnSeHJYqMeSOlGorSpW7BoUdKubE-tUUDe6KMVg/mobilebasic) - Reviews about dorms, what to bring, ...
  - [Living off-campus](https://www.washington.edu/studentlife/living-dining/) - Find off-campus housing
 
 
