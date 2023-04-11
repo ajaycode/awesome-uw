@@ -71,10 +71,10 @@ This is a list of resources at the University of Washington, Seattle
 
 
 ## Social life
-Community | More information
-----------|-----------------
-Student clubs | [Communities and student clubs](https://huskylink.washington.edu) - There are over 1000 student clubs.
-First-year Interest Group (FIG) |  [First-year Interest Group (FIG)](https://fyp.uw.edu/figs) - Small learning group that connects you with other students and peer mentors
-Parents |  [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents
+Community | More information |
+----------|-----------------|
+Student clubs | [Communities and student clubs](https://huskylink.washington.edu) - There are over 1000 student clubs. |
+First-year Interest Group (FIG) |  [First-year Interest Group (FIG)](https://fyp.uw.edu/figs) - Small learning group that connects you with other students and peer mentors |
+Parents |  [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents <br/>Email: uwparent_AT_uw.edu <br/>Facebook: @uwfamily <br/>Instagram: @uw_parents <br/>|
 Discord | [Discord](https://discord.com/channels/546259676531130368/580183076638949376)
 Reddit | [Reddit](https://www.reddit.com/r/udub/wiki/index/)
