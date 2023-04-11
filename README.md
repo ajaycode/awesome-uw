@@ -11,12 +11,13 @@ This is a list of resources at the University of Washington, Seattle
 - [Orientation](https://fyp.uw.edu/orientation) - Introduction to the Husky Experience.
 - [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
 - [Other resources](https://my.uw.edu/resources/) - Resources on UW Portal (Academics, Campus life, libraries, finances, research, MyPlan, GPA Calculator, Tools…)
+  - [Campus Directory](https://www.washington.edu/newhuskies/campus-directory/)
   - [Campus Tours](https://admit.washington.edu/visit/campus-tours/)
   - [Frequently Asked Questions](https://uw.edu/newhuskies/faqs), [Ask a question](https://admit.uw.edu/have-a-question)
   - [Husky Experience Toolkit](https://sas.uaa.uw.edu/husky-experience/) - Guidance on managing stress, mindfulness, managing procastrination, time management, etc...
   - [Physical, mental health and safety](https://wellbeing.uw.edu)
 - [Security, emergency notifications](https://emergency.uw.edu/)
-- __Incoming freshmen checklist__
+- [__Incoming freshmen checklist__](https://www.washington.edu/newhuskies/must-do/)
   - [ ] [Create UW NetID](https://admit.uw.edu/uw-netid)
   - [ ] [Accept offer](https://uw.edu/newhuskies/acceptoffer) - Accept the offer and pay the enrollment fee by May 01, 2023
   - [ ] [Submit proof of immunization](https://immunity.washington.edu) - Submit proof of Covid-19, Measles and mumbs and Meningitis ACWY immunizations. This page has the deadlines for submission.
@@ -75,7 +76,12 @@ This is a list of resources at the University of Washington, Seattle
 - [CSE332: Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
 - [CSE331: Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/)
 
-
+## Financiers (aka parents)
+- [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
+- [Talk to your Husky](https://www.washington.edu/parents/resources/talk-with-your-husky/)
+- [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents
+- [Events for families](https://www.washington.edu/parents/family-events/) 
+- Email: uwparent_AT_uw.edu <br/>Facebook: @uwfamily <br/>Instagram: @uw_parents <br/>|
 
 ## Social life & Activities
 Community | More information |
