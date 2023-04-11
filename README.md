@@ -1,7 +1,7 @@
 # University of Washington, Seattle (UDub) #
 
 
-# awesome-uw
+### awesome-uw
 This is a list of resources at the University of Washington, Seattle
 
 
@@ -97,3 +97,4 @@ Reddit | [Reddit](https://www.reddit.com/r/udub/wiki/index/)
 ## Apps
 - [DubGrub](https://hfs.uw.edu/dub-grub) - Order ahead from Local Point, Center Table, Orin;s Plce, Noodle, Motosurf and Dub Street eateries and pay with your dining account, Husky Card or credit card.
 - [Safe Zone](https://police.uw.edu/services/safe-zone-app/) - Access to UW police and local emergency services.  Call for assistance, medical issues, share your location with UW Police, ...
+- [ZeeMee](https://zeemee.app.link/washingtonadmits) - Private chat community
