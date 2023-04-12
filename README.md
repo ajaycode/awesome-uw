@@ -46,6 +46,8 @@ This is a list of resources at the University of Washington, Seattle
 - [Libraries](https://lib.uw.edu)
 - [Quarter Simulator (uwgrades.com)](https://uwgrades.com/compare.html)
 - [Undergraduate Research Program](https://www.washington.edu/undergradresearch/)
+  - [Finding research opportunities](https://www.cs.washington.edu/findingresearch)
+  - Other resources: Ed Board, DUB REU, search the CS labs for opportunities, cold-email, reach out to Ph D students
 - [PC or MAC](https://www.reddit.com/r/udub/comments/11qyttj/cs_students_what_kind_of_computers_work/)
 
 
