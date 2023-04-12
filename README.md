@@ -47,6 +47,7 @@ This is a list of resources at the University of Washington, Seattle
 - [Quarter Simulator (uwgrades.com)](https://uwgrades.com/compare.html)
 - [Undergraduate Research Program](https://www.washington.edu/undergradresearch/)
   - [Finding research opportunities](https://www.cs.washington.edu/findingresearch)
+  - [Research Café](https://www.washington.edu/undergradresearch/uwresearch-cafe/) - Research Café takes place every first Friday of the month from 9:30-11:00 AM in Mary Gates Hall Suite 171. Place for anyone interested in research to come and build community at UW.
   - Other resources: Ed Board, DUB REU, search the CS labs for opportunities, cold-email, reach out to Ph D students
 - [PC or MAC](https://www.reddit.com/r/udub/comments/11qyttj/cs_students_what_kind_of_computers_work/)
 
