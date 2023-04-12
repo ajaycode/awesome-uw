@@ -12,6 +12,7 @@ This is a list of resources at the University of Washington, Seattle
 - [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
 - [Other resources](https://my.uw.edu/resources/) - Resources on UW Portal (Academics, Campus life, libraries, finances, research, MyPlan, GPA Calculator, Tools…)
   - [Campus Directory](https://www.washington.edu/newhuskies/campus-directory/)
+  - [Campus Map](https://www.washington.edu/maps/#!/mgh)
   - [Campus Tours](https://admit.washington.edu/visit/campus-tours/)
   - [Frequently Asked Questions](https://uw.edu/newhuskies/faqs), [Ask a question](https://admit.uw.edu/have-a-question)
   - [Husky Experience Toolkit](https://sas.uaa.uw.edu/husky-experience/) - Guidance on managing stress, mindfulness, managing procastrination, time management, etc...
