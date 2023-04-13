@@ -58,6 +58,7 @@ This is a list of resources at the University of Washington, Seattle
 - [Paul G Allen School of Computer Science & Engineering](https://www.cs.washington.edu/)
 - [Outreach](https://uwcseappointments.as.me/outreach) - Book an appointment with a student ambassador
 - [Undergrad Advisors](https://www.cs.washington.edu/academics/ugrad/advising) - Check-in for Quick questions for discussions under 10 minutes or book regular appointments for deeper conversations
+- [Introductory courses](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses)
 ### Contacts & Social Media 
 - [Slack for Direct Admits 2023](http://join.admissions.uw.edu/Mzk5LVZMRC0yMjkAAAGK8XDxLxcpMrkxSEh8CWnCPnuDbe9Ek1pXvucIXk3hXDX5hVUWsvKwMEoJ9lWnwSQyZOvvMaY=)
 - [Student Ambassadors](mailto:outreach@cs.washington.edu)
@@ -92,6 +93,7 @@ Community | More information |
 ----------|-----------------|
 Student clubs | [Communities and student clubs](https://huskylink.washington.edu) - There are over 1000 student clubs. |
 First-year Interest Group (FIG) |  [First-year Interest Group (FIG)](https://fyp.uw.edu/figs) - Small learning group that connects you with other students and peer mentors |
+Direct Admit Slack |[Slack](https://allenschool-2023.slack.com/join/shared_invite/zt-1t2h3ow9x-8DQ9TK20jepvt2mpuJOBo)|
 HUB | [Hub](https://hub.washington.edu/about/in-the-hub/) - ATM, Bike repair, Games, Lost & Found, Lockers, Meditation, Cafe, [Book Store](https://hub.washington.edu/about/in-the-hub/university-book-store/), [Technology Loan](https://stlp.uw.edu/)|
 Recreation | [Climbing, Exercise, Golf, Massage, Mindfulness, Nutrition and more](https://www.washington.edu/ima/?_gl=1*1n5ox8b*_ga*MTk1Mjc0MjM2Ni4xNjc4NDIzNDMy*_ga_3T65WK0BM8*MTY4MTI1MTM0MC4yMC4xLjE2ODEyNTE1MjEuMC4wLjA.*_ga_JLHM9WH4JV*MTY4MTI1MTM0MC4yMC4xLjE2ODEyNTE1MjEuMC4wLjA.)|
 Parents |  [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents <br/>[Events](https://www.washington.edu/parents/family-events/) <br/>Email: uwparent_AT_uw.edu <br/>Facebook: @uwfamily <br/>Instagram: @uw_parents <br/>|
