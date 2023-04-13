@@ -59,6 +59,7 @@ This is a list of resources at the University of Washington, Seattle
 - [Outreach](https://uwcseappointments.as.me/outreach) - Book an appointment with a student ambassador
 - [Undergrad Advisors](https://www.cs.washington.edu/academics/ugrad/advising) - Check-in for Quick questions for discussions under 10 minutes or book regular appointments for deeper conversations
 - [Introductory courses](https://www.cs.washington.edu/academics/ugrad/nonmajor-options/intro-courses)
+- [CS specializations](https://www.cs.washington.edu/academics/ugrad/current-students/degree/specializations)
 ### Contacts & Social Media 
 - [Slack for Direct Admits 2023](http://join.admissions.uw.edu/Mzk5LVZMRC0yMjkAAAGK8XDxLxcpMrkxSEh8CWnCPnuDbe9Ek1pXvucIXk3hXDX5hVUWsvKwMEoJ9lWnwSQyZOvvMaY=)
 - [Student Ambassadors](mailto:outreach@cs.washington.edu)
