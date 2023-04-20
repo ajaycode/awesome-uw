@@ -29,8 +29,10 @@ This is a list of resources at the University of Washington, Seattle
 ### Housing
 - [Living on-campus](https://hfs.uw.edu/live) - Living on campus, explore housing, communities, dining plans, ...
   - [Undergraduate housing](https://hfs.uw.edu/live-on-campus/Undergraduate-Housing/McMahon-Hall) - Housing and Food Services (HFS) - undergraduate communities, activities, dining plans, housing account, housing guides, HFS calendar
+    - [Apply for housing](https://hfs.uw.edu/live-on-campus/apply-for-housing-new-residents)
   - [The Rotunda](https://hfs.uw.edu/Eat/dining-hours/The-Rotunda) - HFS - Restaurants, Dining halls and menus
   - __Reviews__
+    - [Dorms: Humans of University](https://humansofuniversity.com/university-of-washington/the-5-best-university-of-washington-dorm/)
     - [Dorms: Reddit](https://www.reddit.com/r/udub/wiki/dorms/)
     - [Dorms: Real talk college](https://docs.google.com/document/u/0/d/19I1UCnSeHJYqMeSOlGorSpW7BoUdKubE-tUUDe6KMVg/mobilebasic) - Reviews about dorms, what to bring, ...
  - [Living off-campus](https://www.washington.edu/studentlife/living-dining/) - Find off-campus housing
