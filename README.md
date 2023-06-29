@@ -54,7 +54,8 @@ This is a list of resources at the University of Washington, Seattle
   - Other resources: Ed Board, DUB REU, search the CS labs for opportunities, cold-email, reach out to Ph D students
 - [PC or MAC](https://www.reddit.com/r/udub/comments/11qyttj/cs_students_what_kind_of_computers_work/)
 
-
+## Scholarships
+- [Merit Scholarships](mailto:scholarq@uw.edu)
 
 ## Paul G. Allen School
 - [Paul G Allen School of Computer Science & Engineering](https://www.cs.washington.edu/)
@@ -86,7 +87,7 @@ This is a list of resources at the University of Washington, Seattle
 
 ## Financiers (aka parents)
 - [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
-- [Tuition fee](https://finance.uw.edu/sfs/tuition/payments),  [Student Financial Services](https://finance.uw.edu/sfs) [Contact: sfshelp@uw.edu, (206) 543-4694]
+- [Tuition fee](https://finance.uw.edu/sfs/tuition/payments),  [Student Financial Services](https://finance.uw.edu/sfs) [Contact: sfshelp@uw.edu, (206) 543-4694, Live chat: https://finance.uw.edu/sfs]
 - [Talk to your Husky](https://www.washington.edu/parents/resources/talk-with-your-husky/)
 - [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents
 - [Events for families](https://www.washington.edu/parents/family-events/) 
