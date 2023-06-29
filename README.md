@@ -27,7 +27,7 @@ This is a list of resources at the University of Washington, Seattle
   - [ ] [Submit your photo for your Husky card](https://hfs.uw.edu/hc-photo), learn about the [Husky Card](https://hfs.uw.edu/husky-card-services)
 
 ### Housing
-- [Living on-campus](https://hfs.uw.edu/live) - Living on campus, explore housing, communities, dining plans, ...
+- [Living on-campus](https://hfs.uw.edu/live) - Living on campus, explore housing, communities, dining plans, ... [Contact: hfsinfo@uw.edu, (206) 543-4059]
   - [Undergraduate housing](https://hfs.uw.edu/live-on-campus/Undergraduate-Housing/McMahon-Hall) - Housing and Food Services (HFS) - undergraduate communities, activities, dining plans, housing account, housing guides, HFS calendar
     - [Apply for housing](https://hfs.uw.edu/live-on-campus/apply-for-housing-new-residents)
   - [The Rotunda](https://hfs.uw.edu/Eat/dining-hours/The-Rotunda) - HFS - Restaurants, Dining halls and menus
