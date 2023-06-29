@@ -86,7 +86,7 @@ This is a list of resources at the University of Washington, Seattle
 
 ## Financiers (aka parents)
 - [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
-- [Tuition fee](https://finance.uw.edu/sfs/tuition/payments),  [Student Financial Services](https://finance.uw.edu/sfs)
+- [Tuition fee](https://finance.uw.edu/sfs/tuition/payments),  [Student Financial Services](https://finance.uw.edu/sfs) [Contact: sfshelp@uw.edu, (206) 543-4694]
 - [Talk to your Husky](https://www.washington.edu/parents/resources/talk-with-your-husky/)
 - [UW Parents](https://uw.edu/parents) - Newsletters, videos, parent and family guide etc for parents
 - [Events for families](https://www.washington.edu/parents/family-events/) 
