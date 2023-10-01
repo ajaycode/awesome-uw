@@ -85,6 +85,8 @@ This is a list of resources at the University of Washington, Seattle
   - [Webinars, classes and resources](https://careers.uw.edu/channels/get-experience/?_gl=1*1w7lnr8*_ga*MTk1Mjc0MjM2Ni4xNjc4NDIzNDMy*_ga_JLHM9WH4JV*MTY4MTI1MTM0MC4yMC4xLjE2ODEyNTI1ODQuMC4wLjA.*_ga_3T65WK0BM8*MTY4MTI1MTM0MC4yMC4xLjE2ODEyNTI1ODQuMC4wLjA.)
 - [CSE332: Data Structures and Parallelism](https://courses.cs.washington.edu/courses/cse332/)
 - [CSE331: Software Design and Implementation](https://courses.cs.washington.edu/courses/cse331/)
+- [Interning.dev](https://www.interning.dev/) - Companies offering internships
+- [Jobs and Internships - hosted on GitHub](https://github.com/SimplifyJobs)
 
 ## Financiers (aka parents)
 - [Parent and Family Guide 2022](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/33/2022/06/10155318/PARENT-FAMILY-GUIDE.pdf)
